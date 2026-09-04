@@ -1,0 +1,4 @@
+# Clean-URL redirects for Cloudflare Pages / Netlify.
+/index.html  /  301
+/bonuses.html  /bonuses/  301
+/casino-review.html  /casino-review/  301
